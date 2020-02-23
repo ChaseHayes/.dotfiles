@@ -10,6 +10,8 @@ export VIMRUNTIME=~/.vim
 alias ls="ls -a --color=auto"
 alias g="git"
 alias gs="git status"
+alias gp="git pull"
 alias gd="git diff"
 alias gl="git log"
+alias gcam="git commit -am"
 
